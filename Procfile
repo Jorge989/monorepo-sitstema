@@ -1,0 +1,1 @@
+web: ts-node-dev --transpile-only --ignore-watch node_modules -r tsconfig-paths/register packages/server/src/shared/infra/http/server.ts
